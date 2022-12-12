@@ -1,0 +1,36 @@
+# function check palindrome
+
+ 
+# def palindrome():
+#     x = input("Enter any number: ")
+#     reverse = x[::-1]
+#     if reverse == x:
+#         print("Number is palindrome")
+#     else:
+#         print("Number is not palindrome")
+# palindrome()
+
+
+
+
+my_list = [1,2,3,4,5,'hello','hi']
+print(my_list)
+my_list[3] = 20
+print (my_list[2])
+print(my_list[1:3])
+print(my_list.append(8))
+print(my_list[-1])
+print(my_list.pop())
+print(my_list.count(2))
+print(my_list.insert(3,"hmm"))
+
+
+
+     add element of same list 
+
+my_list = [1,2,3,4,5,'hello',7,8,9,'python']
+sum = 0
+for element in my_list:
+    if type(element) == int:
+        sum += element
+        print(sum)
