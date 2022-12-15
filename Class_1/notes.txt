@@ -34,3 +34,22 @@ for element in my_list:
     if type(element) == int:
         sum += element
         print(sum)
+
+
+
+
+
+GITHUB 
+
+
+git add . ***adds to staging area
+git commit -m" message" ***commits the file
+git reset . ***untract from staging area
+git push -u origin master/main **push to GITHUB
+git status 
+git branch -m master main ***rename the master branch to main
+
+
+git remote add origin URL ***Add the remote repo link
+git pull origin main/master *** pull
+git add file ***add new file to expsting repository
