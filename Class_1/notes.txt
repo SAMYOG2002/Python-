@@ -52,4 +52,4 @@ git branch -m master main ***rename the master branch to main
 
 git remote add origin URL ***Add the remote repo link
 git pull origin main/master *** pull
-git add file ***add new file to expsting repository
+git add  file ***add new file to expsting repository
