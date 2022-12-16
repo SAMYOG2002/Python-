@@ -13,3 +13,17 @@ print(list2)
 print(list1)
 
 
+# function check palindrome
+
+ 
+# def palindrome():
+#     x = input("Enter any number: ")
+#     reverse = x[::-1]
+#     if reverse == x:
+#         print("Number is palindrome")
+#     else:
+#         print("Number is not palindrome")
+# palindrome()
+
+
+
