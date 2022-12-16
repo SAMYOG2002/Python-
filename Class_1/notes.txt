@@ -48,6 +48,7 @@ git reset . ***untract from staging area
 git push -u origin master/main **push to GITHUB
 git status 
 git branch -m master main ***rename the master branch to main
+git add/rm <file> * add specific file*
 
 
 git remote add origin URL ***Add the remote repo link
